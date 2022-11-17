@@ -1,0 +1,22 @@
+{
+  "name": "exm-example",
+  "version": "1.0.0",
+  "description": "EXM is a platform to create scalable decentralized applications with no wallets or tokens involved.",
+  "main": "function.js",
+  "scripts": {
+    "deploy": "node sdk-example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreespirela/exm-example.git"
+  },
+  "author": "Andres Pirela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreespirela/exm-example/issues"
+  },
+  "homepage": "https://github.com/andreespirela/exm-example#readme",
+  "dependencies": {
+    "@execution-machine/sdk": "^0.1.6"
+  }
+}
